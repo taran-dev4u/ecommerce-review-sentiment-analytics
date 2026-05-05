@@ -8,11 +8,11 @@ This project combines the web-scraping and sentiment-analysis review work into o
 
 The project focuses on turning large volumes of product reviews into positive, neutral, and negative sentiment insight.
 
-## Problem
+## Project Objective
 
 Online reviews are valuable but difficult to read manually at scale. A useful review analytics workflow needs data collection, text preparation, classification, evaluation, and visual summaries.
 
-## Scope
+## Completed Scope
 
 - Product review data collection
 - Text cleaning and preprocessing
@@ -20,18 +20,27 @@ Online reviews are valuable but difficult to read manually at scale. A useful re
 - Model comparison using accuracy, precision, and recall
 - Review trend visualization
 
-## Approach
+## Workflow
 
 - Collected product-review data through scraping and review datasets
-- Prepared text for classification
+- Cleaned and transformed text for classification
 - Compared logistic regression, SVM, and random forest models
 - Reported model results with evaluation metrics
 
-## Existing Work
+## Deliverables
 
 - Online product review system report
 - Sentiment-analysis presentation with model comparison results
 - Capstone review script covering review analytics and visualization
+
+## Repository Contents
+
+- `README.md` - project overview, workflow, deliverables, and skills summary
+- `project-files/ug/Online-Product-Review-Analysis-Using-Web-Scarping.pdf` - project artifact
+- `project-files/ug/Online-Product-Review_review_sentiment_analysis-.pdf` - project artifact
+- `project-files/ug/CAPSTONE_Final_review_Script.pdf` - project artifact
+- `project-files/work/CAPSTONE_Final_review.pdf` - project artifact
+- `project-files/README.md` - manifest of uploaded project materials
 
 ## Contribution
 
@@ -45,14 +54,6 @@ Worked on review analysis, model comparison, visualization, and final project pr
 - Sentiment analysis
 - Scikit-learn
 - Visualization
-
-## Next Update
-
-- Add scraping scripts and modeling notebooks
-- Add dataset source notes
-- Add evaluation table and sample review predictions
-
-The implementation files are stored separately and will be added after the source folders are reviewed and organized.
 
 ## Topics
 
